@@ -79,9 +79,47 @@
 
 ## Доп. задание
 
-# Performance
-
+  * Включить замедление CPU 4x slowdown и эмуляцию сети Slow 3G. Сделать такой же анализ. (Поскольку с включенными настройками во вкладке Network и
+    Coverage ничего не поменялось, ниже приложу анализ только вкладки Performance)
     
+### Performance
 
-    
+* измерить время в миллисекундах от начала навигации до событий FP, FCP, LCP, DCL, Load
 
+  <img width="703" alt="Снимок экрана 2024-06-21 в 15 50 18" src="https://github.com/aly0na27/shri_tooling/assets/120110608/fb06b82e-6c5e-45ba-b4da-2510d3a6c64e">
+
+   `1) От начала навигации до FP прошло 26526.5 мс.`
+
+  <img width="331" alt="Снимок экрана 2024-06-21 в 15 54 30" src="https://github.com/aly0na27/shri_tooling/assets/120110608/76a229c9-d01f-429f-b568-b96e3102dfe3">
+
+  `2) От начала навигации до FCP прошло 26526.5  мс.`
+
+  <img width="324" alt="Снимок экрана 2024-06-21 в 15 54 51" src="https://github.com/aly0na27/shri_tooling/assets/120110608/46035b12-67cb-4518-8210-97ee53edd588">
+
+  `3) От начала навигации до LCP прошло 26526.5 мс`
+
+  <img width="333" alt="Снимок экрана 2024-06-21 в 15 55 47" src="https://github.com/aly0na27/shri_tooling/assets/120110608/961a7325-71f8-4a20-9c72-a6629320abef">
+
+  `4) От начала навигации до DCL прошло 38308.1 мс.`
+
+  <img width="368" alt="Снимок экрана 2024-06-21 в 15 56 08" src="https://github.com/aly0na27/shri_tooling/assets/120110608/c5fb0e44-9a66-4368-a265-dc1fcad51fc0">
+
+  `5) От начала навигации до L прошло 43159.3 мс.`
+
+  <img width="350" alt="Снимок экрана 2024-06-21 в 15 56 26" src="https://github.com/aly0na27/shri_tooling/assets/120110608/cf2a8433-f8bf-4356-8211-922bf9eb4577">
+
+
+* определить, на каком DOM-элементе происходит LCP
+
+  LCP происходит на DOM-елементе `<img>`:
+  
+  <img width="759" alt="Снимок экрана 2024-06-21 в 15 59 18" src="https://github.com/aly0na27/shri_tooling/assets/120110608/79b2cea2-471c-48c7-93f6-6112ce784354">
+
+* измерить, сколько времени в миллисекундах тратится на разные этапы обработки документа (Loading, Scripting, Rendering, Painting)
+
+  <img width="378" alt="Снимок экрана 2024-06-21 в 16 01 20" src="https://github.com/aly0na27/shri_tooling/assets/120110608/572edde0-a82c-4a4c-92d9-7bc9bf321af6">
+
+   - На этап Loading тратится 19ms.
+   - На этап Scripting тратится 1929ms.
+   - На этап Redndering тратится 61ms.
+   - На этап Painting тратится 9ms.
