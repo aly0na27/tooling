@@ -4,6 +4,21 @@
 
 ## Network
 
+* найти неоптимальные места:
+
+  - дублирование ресурсов:
+ 
+    <img width="631" alt="Снимок экрана 2024-06-21 в 11 22 16" src="https://github.com/aly0na27/shri_tooling/assets/120110608/b2c9dd7d-28c4-44b1-a920-783cd8758a08">
+
+    
+    <img width="500" alt="Снимок экрана 2024-06-21 в 14 33 23" src="https://github.com/aly0na27/shri_tooling/assets/120110608/706a6d9a-c870-4abc-8d71-38250e6bf9f1">
+
+  - лишний размер ресурса:
+ 
+  - медленно загружающиеся ресурсы:
+ 
+  - ресурсы, блокирующие загрузку
+
 
 ## Performance
 
@@ -61,4 +76,12 @@
   * измерить в килобайтах объём неиспользованного JS в ходе загрузки страницы - 5900 kB
 
      ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/coverage_js.png?raw=true)
+
+## Доп. задание
+
+# Performance
+
+    
+
+    
 
