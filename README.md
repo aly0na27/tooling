@@ -7,7 +7,7 @@
 
 ## Performance
 
-* Дорожка времени
+* измерить время в миллисекундах от начала навигации до событий FP, FCP, LCP, DCL, Load
 
   ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/performance_1.png?raw=true)
 
@@ -33,10 +33,20 @@
 
      ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/l.png?raw=true)
 
-* LCP происходит на DOM-елементе `<img>`:
+* определить, на каком DOM-элементе происходит LCP
+
+  LCP происходит на DOM-елементе `<img>`:
   
   ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/lcp_dom_element.png?raw=true)
-  
+
+* измерить, сколько времени в миллисекундах тратится на разные этапы обработки документа (Loading, Scripting, Rendering, Painting)
+
+   ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/process_stages.png?raw=true)
+
+   - На этап Loading тратится 11ms.
+   - На этап Scripting тратится 1283ms.
+   - На этап Redndering тратится 291ms.
+   - На этап Painting тратится 238ms.
   
 ## Coverage
 
@@ -48,7 +58,7 @@
 
      ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/coverage_css.png?raw=true)
     
-  * измерить в килобайтах объём неиспользованного JS в ходе загрузки страницы - 
+  * измерить в килобайтах объём неиспользованного JS в ходе загрузки страницы - 5900 kB
 
      ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/coverage_js.png?raw=true)
 
