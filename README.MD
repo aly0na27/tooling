@@ -4,7 +4,7 @@
 
 ## Network
 
-![alt text](https://github.com/aly0na27/shri_tooling/blob/master/performance_1.png?raw=true)
+![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/performance_1.png?raw=true)
 
 ## Performance
 
