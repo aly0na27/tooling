@@ -13,7 +13,7 @@
 
   ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/performance_2.png?raw=true)
 
-  1. От начала навигации до FP прошло 531.95 мс.
+  1) От начала навигации до FP прошло 531.95 мс.
 
      ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/fp.png?raw=true)
 
