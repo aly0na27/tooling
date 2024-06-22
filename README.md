@@ -18,9 +18,8 @@
 
     <img width="805" alt="Снимок экрана 2024-06-22 в 10 09 18" src="https://github.com/aly0na27/shri_tooling/assets/120110608/f5daa6eb-5f0b-4e69-9a1f-023a59b5709d">
     
-    ![Uploading Снимок экрана 2024-06-22 в 10.11.02.png…]()
+    <img width="936" alt="Снимок экрана 2024-06-22 в 10 12 12" src="https://github.com/aly0na27/shri_tooling/assets/120110608/dc5e6db9-1b21-4fca-8440-8a6e0891d367">
 
-   
   - лишний размер ресурса:
   
     <img width="797" alt="Снимок экрана 2024-06-22 в 10 02 01" src="https://github.com/aly0na27/shri_tooling/assets/120110608/0e830957-814e-45e4-8252-fffce75c3ffa">
