@@ -40,8 +40,7 @@
 
     Ресурсы, которые загружаются до синей линии (First paint) блокируют рендеринг
 
-    <img width="1222" alt="Снимок экрана 2024-06-22 в 09 58 45" src="https://github.com/aly0na27/shri_tooling/assets/120110608/4a2e17fa-9795-4067-b41a-aeb8ddc5f8e2">
-
+    <img width="1440" alt="Снимок экрана 2024-06-22 в 10 40 19" src="https://github.com/aly0na27/shri_tooling/assets/120110608/b9c399e1-5da6-4e90-9a9b-d557182f867e">
 
 ## Performance
 
