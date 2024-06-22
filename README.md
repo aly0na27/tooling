@@ -8,16 +8,40 @@
 
   - дублирование ресурсов:
  
-    <img width="631" alt="Снимок экрана 2024-06-21 в 11 22 16" src="https://github.com/aly0na27/shri_tooling/assets/120110608/b2c9dd7d-28c4-44b1-a920-783cd8758a08">
+    <img width="922" alt="Снимок экрана 2024-06-22 в 10 03 10" src="https://github.com/aly0na27/shri_tooling/assets/120110608/296dd66a-bbf0-4de3-a9b8-20633f4eb821">
 
+    <img width="921" alt="Снимок экрана 2024-06-22 в 10 04 38" src="https://github.com/aly0na27/shri_tooling/assets/120110608/6093519d-a02b-424d-8383-4896d4e449eb">
+
+    <img width="922" alt="Снимок экрана 2024-06-22 в 10 06 17" src="https://github.com/aly0na27/shri_tooling/assets/120110608/8fd83287-b0f6-4adc-ad07-354ef58171e9">
+
+    <img width="620" alt="Снимок экрана 2024-06-22 в 10 07 03" src="https://github.com/aly0na27/shri_tooling/assets/120110608/b7ff90e4-c53a-443c-96a2-c8a22fc54df5">
+
+    <img width="805" alt="Снимок экрана 2024-06-22 в 10 09 18" src="https://github.com/aly0na27/shri_tooling/assets/120110608/f5daa6eb-5f0b-4e69-9a1f-023a59b5709d">
     
-    <img width="500" alt="Снимок экрана 2024-06-21 в 14 33 23" src="https://github.com/aly0na27/shri_tooling/assets/120110608/706a6d9a-c870-4abc-8d71-38250e6bf9f1">
+    ![Uploading Снимок экрана 2024-06-22 в 10.11.02.png…]()
 
+   
   - лишний размер ресурса:
- 
+  
+    <img width="797" alt="Снимок экрана 2024-06-22 в 10 02 01" src="https://github.com/aly0na27/shri_tooling/assets/120110608/0e830957-814e-45e4-8252-fffce75c3ffa">
+
+    Картники можно было бы сжать.
+
   - медленно загружающиеся ресурсы:
+
+    <img width="958" alt="Снимок экрана 2024-06-22 в 10 00 07" src="https://github.com/aly0na27/shri_tooling/assets/120110608/112c23a1-a241-46cf-bcc3-4b366224084f">
+
+  - ресурсы, блокирующие загрузку:
  
-  - ресурсы, блокирующие загрузку
+    Ресурсы, которые загружаются до красной линии (Load event) блокируют загрузку страницы
+
+    <img width="1440" alt="Снимок экрана 2024-06-22 в 09 55 30" src="https://github.com/aly0na27/shri_tooling/assets/120110608/f149c593-20c2-4556-8121-918e6967c54f">
+
+  - ресурсы, блокирующие рендеринг:
+
+    Ресурсы, которые загружаются до синей линии (First paint) блокируют рендеринг
+
+    <img width="1222" alt="Снимок экрана 2024-06-22 в 09 58 45" src="https://github.com/aly0na27/shri_tooling/assets/120110608/4a2e17fa-9795-4067-b41a-aeb8ddc5f8e2">
 
 
 ## Performance
