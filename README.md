@@ -146,3 +146,5 @@
    - На этап Scripting тратится 1929ms.
    - На этап Redndering тратится 61ms.
    - На этап Painting тратится 9ms.
+ 
+  
