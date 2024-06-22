@@ -142,9 +142,10 @@
 
   <img width="378" alt="Снимок экрана 2024-06-21 в 16 01 20" src="https://github.com/aly0na27/shri_tooling/assets/120110608/572edde0-a82c-4a4c-92d9-7bc9bf321af6">
 
-   - На этап Loading тратится 19ms.
-   - На этап Scripting тратится 1929ms.
-   - На этап Redndering тратится 61ms.
-   - На этап Painting тратится 9ms.
- 
+  - На этап Loading тратится 19ms.
+  - На этап Scripting тратится 1929ms.
+  - На этап Redndering тратится 61ms.
+  - На этап Painting тратится 9ms.
+
+  [Ссылка на файл профиль загрузки](https://disk.yandex.ru/d/fUNrZTImCPL0Xw)
   
