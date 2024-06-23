@@ -7,18 +7,16 @@
 * найти неоптимальные места:
 
   - дублирование ресурсов:
- 
-    <img width="922" alt="Снимок экрана 2024-06-22 в 10 03 10" src="https://github.com/aly0na27/shri_tooling/assets/120110608/296dd66a-bbf0-4de3-a9b8-20633f4eb821">
+  
+    <img width="518" alt="Снимок экрана 2024-06-23 в 22 36 48" src="https://github.com/aly0na27/tooling/assets/120110608/0adc43c6-2b8d-47bf-bb4d-beed8c9cf004">
 
-    <img width="921" alt="Снимок экрана 2024-06-22 в 10 04 38" src="https://github.com/aly0na27/shri_tooling/assets/120110608/6093519d-a02b-424d-8383-4896d4e449eb">
+    <img width="748" alt="Снимок экрана 2024-06-23 в 22 37 26" src="https://github.com/aly0na27/tooling/assets/120110608/d35373a2-1535-496a-ab4a-4a5d988104e6">
 
-    <img width="922" alt="Снимок экрана 2024-06-22 в 10 06 17" src="https://github.com/aly0na27/shri_tooling/assets/120110608/8fd83287-b0f6-4adc-ad07-354ef58171e9">
+    <img width="748" alt="Снимок экрана 2024-06-23 в 22 37 54" src="https://github.com/aly0na27/tooling/assets/120110608/b4670e9c-d4e8-4488-a7c9-63c2987a0a47">
 
-    <img width="620" alt="Снимок экрана 2024-06-22 в 10 07 03" src="https://github.com/aly0na27/shri_tooling/assets/120110608/b7ff90e4-c53a-443c-96a2-c8a22fc54df5">
+    <img width="745" alt="Снимок экрана 2024-06-23 в 22 38 15" src="https://github.com/aly0na27/tooling/assets/120110608/8b6bcb4c-2d99-4be5-8319-c91deb82c8bd">
 
-    <img width="805" alt="Снимок экрана 2024-06-22 в 10 09 18" src="https://github.com/aly0na27/shri_tooling/assets/120110608/f5daa6eb-5f0b-4e69-9a1f-023a59b5709d">
-    
-    <img width="936" alt="Снимок экрана 2024-06-22 в 10 12 12" src="https://github.com/aly0na27/shri_tooling/assets/120110608/dc5e6db9-1b21-4fca-8440-8a6e0891d367">
+    <img width="413" alt="Снимок экрана 2024-06-23 в 22 39 02" src="https://github.com/aly0na27/tooling/assets/120110608/eecee3a8-6c68-4498-b938-2ec07580a584">
 
   - лишний размер ресурса:
   
