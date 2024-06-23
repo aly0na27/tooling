@@ -32,16 +32,12 @@
 
     <img width="409" alt="Снимок экрана 2024-06-23 в 22 51 00" src="https://github.com/aly0na27/tooling/assets/120110608/5524f7c7-6e97-4403-afc9-dcfe619a0ebd">
 
-    Ресурсы, которые загружаются до красной линии (Load event) блокируют загрузку страницы
+    <img width="1404" alt="Снимок экрана 2024-06-23 в 22 52 18" src="https://github.com/aly0na27/tooling/assets/120110608/0b281b85-7e57-45d4-a822-ed38fa4ea4fb">
 
-    <img width="1440" alt="Снимок экрана 2024-06-22 в 09 55 30" src="https://github.com/aly0na27/shri_tooling/assets/120110608/f149c593-20c2-4556-8121-918e6967c54f">
+    <img width="1358" alt="Снимок экрана 2024-06-23 в 22 53 27" src="https://github.com/aly0na27/tooling/assets/120110608/d5a58f98-1f36-49b0-9ea7-d8233ef967d7">
 
-  - ресурсы, блокирующие рендеринг:
-
-    Ресурсы, которые загружаются до синей линии (First paint) блокируют рендеринг
-
-    <img width="1440" alt="Снимок экрана 2024-06-22 в 10 40 19" src="https://github.com/aly0na27/shri_tooling/assets/120110608/b9c399e1-5da6-4e90-9a9b-d557182f867e">
-
+    Так как эти ресурсы находились в head без async/defer, они являются блокирующими.
+    
 ## Performance
 
 * измерить время в миллисекундах от начала навигации до событий FP, FCP, LCP, DCL, Load
