@@ -20,16 +20,18 @@
 
   - лишний размер ресурса:
   
-    <img width="797" alt="Снимок экрана 2024-06-22 в 10 02 01" src="https://github.com/aly0na27/shri_tooling/assets/120110608/0e830957-814e-45e4-8252-fffce75c3ffa">
+    <img width="789" alt="Снимок экрана 2024-06-23 в 22 39 59" src="https://github.com/aly0na27/tooling/assets/120110608/00962134-4be5-4a3f-8dea-8d4f9239418e">
 
     Картники можно было бы сжать.
 
   - медленно загружающиеся ресурсы:
-
-    <img width="958" alt="Снимок экрана 2024-06-22 в 10 00 07" src="https://github.com/aly0na27/shri_tooling/assets/120110608/112c23a1-a241-46cf-bcc3-4b366224084f">
+  
+    <img width="901" alt="Снимок экрана 2024-06-23 в 22 40 28" src="https://github.com/aly0na27/tooling/assets/120110608/e7cd9415-dbaf-45d0-88de-4bd98212ac04">
 
   - ресурсы, блокирующие загрузку:
- 
+
+    <img width="409" alt="Снимок экрана 2024-06-23 в 22 51 00" src="https://github.com/aly0na27/tooling/assets/120110608/5524f7c7-6e97-4403-afc9-dcfe619a0ebd">
+
     Ресурсы, которые загружаются до красной линии (Load event) блокируют загрузку страницы
 
     <img width="1440" alt="Снимок экрана 2024-06-22 в 09 55 30" src="https://github.com/aly0na27/shri_tooling/assets/120110608/f149c593-20c2-4556-8121-918e6967c54f">
