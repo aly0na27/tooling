@@ -91,7 +91,7 @@
 
      ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/coverage_css.png?raw=true)
     
-  * измерить в килобайтах объём неиспользованного JS в ходе загрузки страницы - 5900 kB
+  * измерить в килобайтах объём неиспользованного JS в ходе загрузки страницы - 6041.6 kB
 
      ![alt text](https://github.com/aly0na27/shri_tooling/blob/master/screenshots/coverage_js.png?raw=true)
 
